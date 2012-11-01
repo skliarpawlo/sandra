@@ -1,0 +1,7 @@
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Release\ResolveAssemblyReference.cache
+D:\Progs\c#\ProcessTry\ProcessTry\bin\Release\ProcessTry.exe
+D:\Progs\c#\ProcessTry\ProcessTry\bin\Release\ProcessTry.pdb
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Release\ProcessTry.exe
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Release\ProcessTry.pdb
+C:\main\cyb\Sandra\lastSandra\CheckSys\Source\ProcessTry\ProcessTry\obj\Release\ProcessTry.exe
+C:\main\cyb\Sandra\lastSandra\CheckSys\Source\ProcessTry\ProcessTry\obj\Release\ProcessTry.pdb

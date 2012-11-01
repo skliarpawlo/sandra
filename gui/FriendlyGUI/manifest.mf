@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+SplashScreen-Image: resources/029.gif
+X-COMMENT: Main-Class will be added automatically by build

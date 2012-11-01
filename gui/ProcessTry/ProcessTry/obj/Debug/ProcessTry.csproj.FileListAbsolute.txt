@@ -1,0 +1,5 @@
+D:\Progs\c#\ProcessTry\ProcessTry\bin\Debug\ProcessTry.exe
+D:\Progs\c#\ProcessTry\ProcessTry\bin\Debug\ProcessTry.pdb
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Debug\ResolveAssemblyReference.cache
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Debug\ProcessTry.exe
+D:\Progs\c#\ProcessTry\ProcessTry\obj\Debug\ProcessTry.pdb

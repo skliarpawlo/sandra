@@ -1,0 +1,11 @@
+#GUI properties
+##########################
+#LookAndFeelSkin=org.pushingpixels.substance.api.skin.MistSilverSkin
+#LookAndFeelMainClass=org.pushingpixels.substance.api.skin.SubstanceMistSilverLookAndFeel
+##########################
+#LookAndFeelSkin=org.pushingpixels.substance.api.skin.TwilightSkin
+#LookAndFeelMainClass=org.pushingpixels.substance.api.skin.SubstanceTwilightLookAndFeel
+##########################
+LookAndFeelMainClass=org.pushingpixels.substance.api.skin.SubstanceGraphiteGlassLookAndFeel
+LookAndFeelSkin=org.pushingpixels.substance.api.skin.GraphiteAquaSkin
+
