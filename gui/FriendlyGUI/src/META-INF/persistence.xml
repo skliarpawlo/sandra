@@ -13,7 +13,7 @@
     <class>entities.Tests</class>
     <properties>
       <property name="toplink.jdbc.user" value="root"/>
-      <property name="toplink.jdbc.password" value=""/>
+      <property name="toplink.jdbc.password" value="root"/>
       <property name="toplink.jdbc.url" value="jdbc:mysql://localhost:3306/cccheck"/>
       <property name="toplink.jdbc.driver" value="com.mysql.jdbc.Driver"/>
     </properties>

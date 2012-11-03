@@ -3,3 +3,4 @@ soft/*
 .svn/
 *.class
 *.exe
+gui/FriendlyGUI/dist/*
